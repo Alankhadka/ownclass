@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1425276060 source:c:\users\crank\desktop\programs\my\hello\hell.cpp
+	<iostream>
+	"Hello.h"
+
+1425277843 c:\users\crank\desktop\programs\my\hello\hello.h
+	<string>
+	<iostream>
+
+1425278512 source:c:\users\crank\desktop\programs\my\hello\hello.cpp
+	<iostream>
+	<string>
+	"Hello.h"
+
